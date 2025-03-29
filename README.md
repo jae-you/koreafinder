@@ -12,13 +12,7 @@ Finding 'Korea' in International Forms - No More Scrolling!
 * 선택적으로 한국 옵션을 자동으로 선택할 수 있습니다
 * 페이지 로드 후에 드롭다운이 추가되는 동적 페이지도 지원합니다
 
-![스크린샷](assets/screenshot.png)
-
 ## 설치 방법
-
-### 크롬 웹 스토어에서 설치 (준비 중)
-
-크롬 웹 스토어에서 "Korea Finder"를 검색하거나 [여기를 클릭](웹스토어_링크)하여 설치하세요.
 
 ### 개발자 모드로 설치
 
@@ -45,7 +39,7 @@ Finding 'Korea' in International Forms - No More Scrolling!
 
 1. 이 저장소를 클론합니다
    ```
-   git clone https://github.com/your-username/korea-finder.git
+   git clone https://github.com/jae-you/korea-finder.git
    cd korea-finder
    ```
 
